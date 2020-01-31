@@ -15,7 +15,7 @@ f stands for Forcefully
 
 Example : git rm -rf .idea/
 
-3. git commit -m "commit message
+3. git commit -m "commit message"
 4. git remote add origin RemoteRepoLink
 5. git push -u origin master
 
