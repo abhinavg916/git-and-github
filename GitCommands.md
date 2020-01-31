@@ -64,3 +64,5 @@ git push remote add origin gitrepourl	=> Adds the remote url and pushes on it.
 git push origin master	=> Pushes local repository to the remote repository online at the branch master of remote.
 
 git push origin master --force => Pushes forcefully local repository to remote repository online at the branch of master of remote.
+
+git remove rm remotename => Deletes the remote repository mentioned as arguement (remote name) and its URL from its memory.
