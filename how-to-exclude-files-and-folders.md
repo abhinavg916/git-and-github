@@ -22,6 +22,25 @@ target/ <br>
 4. Git will automatically ignore these files and folders from Staging or Commiting or Pushing.
 5. Proceed with the normal way of Staging, Commiting and Pushing! :)
 
+-------------------------------------------------------------------------------------------------------
+# ignore all .a files
+*.a
+
+# but do track lib.a, even though you're ignoring .a files above
+!lib.a
+
+# only ignore the TODO file in the current directory, not subdir/TODO
+/TODO
+
+# ignore all files in any directory named build
+build/
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+doc/*.txt
+
+# ignore all .pdf files in the doc/ directory and any of its subdirectories
+doc/**/*.pdf
+-------------------------------------------------------------------------------------------------------
 
 # Method 2 : Traditional Way
 Steps:-
