@@ -177,9 +177,16 @@ ___
 ```
 
 >For Example
-* Sample Text 1
+* Sample Text 1 
+
+* `<!-- Used below --- -->`
+
 ---
-* Sample Text 2
+
+* Sample Text 2 
+
+* `<!-- Used below ___ -->`
+
 ___
 
 
