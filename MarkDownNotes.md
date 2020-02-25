@@ -24,7 +24,7 @@
 
 
 ## Steps to Setup Markdown: -
----
+
 
 ### Markdown Editors/IDE
 * VSCode by Microsoft: Free and Best \(Recommended\)
@@ -41,7 +41,7 @@ Below IDE's are built especially for Markdown
 
 
 ## Syntaxes in Markdown
----
+
 ## 1. Bullet Points
 * Purpose: It helps in maintaining proper indentations in documentation
 * \'*' or \'-' symbols are used
@@ -179,14 +179,14 @@ ___
 >For Example
 * Sample Text 1
 ---
-*Sample Text 2
+* Sample Text 2
 ___
 
 
 ### 7. Display Symbols
 
 * Purpose: Since in markdown symbols are reserved as syntax but to explicitly display them \ symbol is used
-* \\ is used 
+* \\ symbol is used 
 
 >Syntax
 ```
@@ -223,8 +223,8 @@ For Example
 [Link Title](URL "Title on Hover")
 ```
 >For Example
-* [Sample Link - Google](www.google.com)
-* [Sample Link - Google with hover title](www.google.com "Google")
+* [Sample Link - Google](https://www.google.com)
+* [Sample Link - Google with hover title](https://www.google.com "Google")
 
 
 
@@ -254,7 +254,7 @@ For Example
 
 ### 11. Ordered Lists
 * Purpose: To display the Ordered Lists
-* \'1.' is used and if, Other than 1 is used then it is not considered as Ordered List
+* \'1.' is used and if other than 1 is used then it is not considered as Ordered List
 * Incrementation is done automatically
 
 > Syntax
@@ -332,8 +332,9 @@ public static void main(String args[]){
 ```c++ 
 #include<iostream.h>
 using namespace std;
-void main(){
+int main(){
     cout<<"Hello World in GitHub Markdown Code Block!";
+    return 0;
 }
 ```
 
