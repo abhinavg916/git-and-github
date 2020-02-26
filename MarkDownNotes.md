@@ -44,7 +44,7 @@ Below IDE's are built especially for Markdown
 
 ## 1. Bullet Points
 * Purpose: It helps in maintaining proper indentations in documentation
-* \'*' or \'-' symbols are used
+* `*` or `-` symbols are used
 * It is also known as Un-Ordered List
 
 >Syntax
@@ -95,10 +95,10 @@ Sample Text from Paragraph 1 Sample Text from Paragraph 2
 
 ## 4. Headings
 * Purpose: To well format the headings in the documentation
-* \'#' symbol is used before the statements
-* With single \# represents the main heading
-* With multiple \##.. represents the sub headings
-* NOTE: By default, Main Heading \(\#) only has horizontal rule with it
+* `#` symbol is used before the statements
+* With single `#` represents the main heading
+* With multiple `##..` represents the sub headings
+* NOTE: By default, Main Heading `(#)` only has horizontal rule with it
 
 >Syntax
 ```
@@ -123,7 +123,7 @@ Sample Text from Paragraph 1 Sample Text from Paragraph 2
 ### 5. Emphasis
 #### 1. Italics
 * Purpose: To format the text in Italic
-* \'*' or \'_' symbols are used
+* `*` or `_` symbols are used
 
 > Syntax
 ```
@@ -138,7 +138,7 @@ _Sample Text_
 
 #### 2. Strong
 * Purpose: To format the text in Bold
-* \'**' or \'__' symbols are used
+* `**` or `__` symbols are used
 
 >Syntax
 ```
@@ -152,7 +152,7 @@ __Sample Text__
 
 #### 3. Strikethrough
 * Purpose: To format the text in Strikethrough
-* \'~~' symbols is used
+* `~~` symbols is used
 
 >Syntax
 ```
@@ -164,7 +164,7 @@ __Sample Text__
 
 ### 6. Horizontal Rule
 * Purpose: Adds a horizontal rule (line) for better separation
-* \'---' or '___' symbols are used
+* `---` or `___` symbols are used
 
 >Syntax
 ```
@@ -193,7 +193,7 @@ ___
 ### 7. Display Symbols
 
 * Purpose: Since in markdown symbols are reserved as syntax but to explicitly display them \ symbol is used
-* \\ symbol is used 
+* `\` symbol is used 
 
 >Syntax
 ```
@@ -206,7 +206,7 @@ For Example
 
 ### 8. Blockquotes
 * Purpose: To format text in block quotes
-* \'>' symbol is used
+* `>` symbol is used
 
 >Syntax
 ```
@@ -218,14 +218,14 @@ For Example
 
 ### 9. Links
 * Purpose: To declare the Hyperlink
-* \'( )' is used for the Link \(URL) and \'[ ]' is used for the title on the link
+* `( )` is used for the Link \(URL) and `[ ]` is used for the title on the link
 
 > Syntax
 ```
 [Link Title](URL)
 ```
 
-* To add title on hovering over the link, \" \" are used in \'( )' after the URL ends
+* To add title on hovering over the link, `" "` are used in \'( )' after the URL ends
 ```
 [Link Title](URL "Title on Hover")
 ```
@@ -237,7 +237,7 @@ For Example
 
 ### 10. Un-Ordered Lists
 * Purpose: To display Un-Ordered Lists
-* Only one \'*' symbol is used
+* Only one `*` symbol is used
 
 > Syntax
 ```
@@ -261,7 +261,7 @@ For Example
 
 ### 11. Ordered Lists
 * Purpose: To display the Ordered Lists
-* \'1.' is used and if other than 1 is used then it is not considered as Ordered List
+* `1.` is used and if other than 1 is used then it is not considered as Ordered List
 * Incrementation is done automatically
 
 > Syntax
@@ -292,7 +292,7 @@ For Example
 
 ### 13. Image
 * Purpose: To display Images
-* It is similar to Links in syntax but '!' is added before it
+* It is similar to Links in syntax but `!` is added before it
 
 > Syntax
 ```
@@ -360,7 +360,7 @@ def add(num1, num2):
 
 ### 2. Tables
 * Purpose: To display tables 
-* \'|' symbol is used
+* `|` symbol is used
 
 > Syntax
 ```
@@ -379,7 +379,7 @@ def add(num1, num2):
 
 ### 3. Task Lists
 * Purpose: To display Checkboxes
-* \'[ ]' symbol is used which is Un-Ordered List
+* `[ ]` symbol is used which is Un-Ordered List
 * x in square brackets represents the completed tasks and otherwise incomplete
 
 > Syntax
