@@ -62,6 +62,11 @@
 
 `git rm –cached filename (with file extension)`	
 
+__OR__
+
+`git restore --staged filename`
+
+
 ---
 
 ### Adds all to staging
