@@ -34,7 +34,7 @@ target/ <br>
 
 * ignore all .pdf files in the doc/ directory and any of its subdirectories - `doc/**/*.pdf`
 
-#### Method 2 : Traditional Way
+### Method 2 : Traditional Way
 Steps:
 
 * First, be in local respository of the project in which Git is initialised and if not, initialise it.
