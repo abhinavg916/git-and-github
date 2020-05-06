@@ -22,3 +22,4 @@
   * `###` - For heading inside a subheading
   * `####`  - For subheading inside a subheading
 * Use Bullet, when necessary not everytime! Otherwise plain text with no bullets
+* Add License Information
