@@ -7,7 +7,7 @@
 ![GitHub](https://i2.wp.com/supportdriven.com/wp-content/uploads/2017/10/github-logo.png?ssl=1)
 
 ## Contents
-* [Markdown Notes](https://github.com/abhinavg916/github-guide/blob/master/Markdown.md)
+* [Markdown Notes](https://github.com/abhinavg916/github-guide/blob/master/Markdown-Notes.md)
 * [Git Commands](https://github.com/abhinavg916/github-guide/blob/master/Git-Commands.md)
 * [Git Ignore](https://github.com/abhinavg916/github-guide/blob/master/Git-Ignore.md)
 * [Git Tips](https://github.com/abhinavg916/github-guide/blob/master/Git-Tips.md)
