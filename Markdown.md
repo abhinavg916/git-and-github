@@ -1,5 +1,3 @@
-#### Author - Abhinavg916@gmail.com
-
 # Markdown Notes
 
 ## What is Markdown?
@@ -403,6 +401,6 @@ def add(num1, num2):
 * [x] Push to GitHub Repository `<!-- Incomplete Task-->`
 * [ ] Pending `<!-- Incomplete Task-->`
 
-
-#### Thank you ;)
-#### Author - Abhinavg916@gmail.com
+## Author
+* Name - Abhinav
+* GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
