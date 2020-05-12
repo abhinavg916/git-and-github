@@ -363,6 +363,12 @@ def add(num1, num2):
 ### 2. Tables
 * Purpose: To display tables 
 * `|` symbol is used
+* __TRICK__
+   * Make the table in Microsoft Word or Excel
+   * Install "Excel to Markdown table" extension in VSCode
+   * Copy the table from the source file
+   * Paste it in the .md file by using __SHIFT + ALT + V__ shortcut key
+   * Copy the markdown format of the table and paste in the desired .md file
 
 > Syntax
 ```
