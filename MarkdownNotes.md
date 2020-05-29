@@ -390,7 +390,7 @@ def add(num1, num2):
 > For Example
 
 * [x] Learn Markdown `<!-- Complete Task-->`
-* [x] Push to GitHub Repository `<!-- Incomplete Task-->`
+* [ ] Push to GitHub Repository `<!-- Incomplete Task-->`
 * [ ] Pending `<!-- Incomplete Task-->`
 
 ## Author
