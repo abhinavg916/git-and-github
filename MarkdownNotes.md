@@ -1,5 +1,4 @@
 # Markdown Notes
-
 ## What is Markdown?
 * Lightweight Mark-up Language with plain text formatting syntax
 * Mainly built for readability and ease of use for documentations
@@ -20,10 +19,7 @@
 * Horizontal Rules
 * Images
 
-
-## Steps to Setup Markdown: -
-
-
+## Steps to Setup Markdown
 ### Markdown Editors/IDE
 * VSCode by Microsoft: Free and Best \(Recommended\)
 * Atom by GitHub
@@ -37,9 +33,7 @@ Below IDE's are built especially for Markdown
 ### Markdown Live Preview
 * Using VSCode, Install Auto-Open Markdown Extension - It helps in viewing Markdown side by side in real-time
 
-
 ## Syntaxes in Markdown
-
 ## 1. Bullet Points
 * Purpose: It helps in maintaining proper indentations in documentation
 * `*` or `-` symbols are used
@@ -54,8 +48,6 @@ Below IDE's are built especially for Markdown
 * Statement 1
 * Statement 2
 * Statement3 
-
-
 
 ## 2. New Line or New Paragraph
 * Purpose: To leave a one blank line after the sentence
