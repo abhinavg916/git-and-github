@@ -7,13 +7,10 @@
 ![GitHub](https://i2.wp.com/supportdriven.com/wp-content/uploads/2017/10/github-logo.png?ssl=1)
 
 ## Contents
-* [Markdown Notes](https://github.com/abhinavg916/github-guide/blob/master/MarkdownNotes.md)
-* [Git Commands](https://github.com/abhinavg916/github-guide/blob/master/GitCommands.md)
-* [Git Ignore](https://github.com/abhinavg916/github-guide/blob/master/GitIgnore.md)
-* [Git Tips](https://github.com/abhinavg916/github-guide/blob/master/GitTips.md)
-
-## License
-* This repository is released under the MIT license. In short, this means you are free to use. Attribution is optional but appreciated :)
+* Markdown Notes
+* Git Commands
+* Git Ignore
+* Git Tips
 
 ## Author
 * Name - Abhinav
