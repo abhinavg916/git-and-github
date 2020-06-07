@@ -2,7 +2,7 @@
 * Naming Conventions of a repository on Git must be lowercase.
 * Commit messages should be precise and action based.
 * Each repository must have README.md file
-* Check for spelling mistakes and grammatical error before committing
+* Check for spelling mistakes and grammatical errors before committing
 * Add the following:
 ```
 ## License
