@@ -88,7 +88,7 @@ git reset commitid –hard
 ```
 
 ## Branches in Git
-* To check/know the present branch.
+* To check/know the present branch
 ```
 git branch
 ```
@@ -101,12 +101,12 @@ git branch branchname
 git checkout branchname
 ```
 * To delete the selected branch forcefully (-d is used when it is not merged)
-    * NOTE: First be at another branch apart from targeted branch during deletion.
+    * NOTE: First be at another branch apart from targeted branch during deletion
 ```
 git branch -d branchname
 ```
 * To delete the selected branch forcefully (-D is used when it is merged)
-    * NOTE: First be at another branch apart from targeted branch during deletion.
+    * NOTE: First be at another branch apart from targeted branch during deletion
 ```
 git branch -D branchname
 ```
@@ -116,7 +116,7 @@ git branch -D branchname
 git checkout -b newbranchname
 ```
 * To merge the branch with the master
-    * NOTE: Before merge any branch, we should commit all the changes and then move to the master node.
+    * NOTE: Before merge any branch, we should commit all the changes and then move to the master node
 ```
 git merge branchname
 ```
