@@ -1,11 +1,11 @@
 # Git Commands
 ## Contents
-* [Basic Git Setup](#basicgitsetup)
-* Creation of Git Repository
-* Staging and Commiting Changes
-* Branches in Git
-* Git Remote Repository Setup
-* Remote to Local Repository Setup
+* [Basic Git Setup](#basic-git-setup)
+* [Creation of Git Repository](#creation-of-a-git-repository)
+* [Staging and Commiting Changes](#staging-and-commiting-changes-in-a-git-repository)
+* [Branches in Git](#branches-in-git)
+* [Git Remote Repository Setup](#git-remote-repository-setup)
+* [Remote to Local Repository Setup](#remote-to-local-repository-setup)
 
 ## Basic Git Setup
 * To check git version
