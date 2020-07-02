@@ -1,6 +1,6 @@
 # Git Commands
 ## Contents
-* Basic Git Setup
+* [Basic Git Setup](#basicgitsetup)
 * Creation of Git Repository
 * Staging and Commiting Changes
 * Branches in Git
