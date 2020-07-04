@@ -1,10 +1,8 @@
-# How to Exclude Files and Folders during Commit and Push
-
-## Case: Removal of Metadata folders of IDE
-* For Example - IntelliJ IDEA generates .idea folder
-* Similarly, it can be applied for Eclipse IDE.
-
-### Method 1: Smarter Way
+# Git Ignore
+## How to Exclude Files and Folders during Commit and Push
+* Removal of Metadata folders of IDE
+* For Example - IntelliJ IDEA generates .idea folder, Eclipse IDE generates metadata, bin folders, and in many such scenarios
+### Method 1:
 * Steps:
   * Locate the local repository of the project in which Git is initialised and if not, initialise it.
   * Look for `.gitignore` file in the same repository.
@@ -25,19 +23,19 @@ target/
 * ignore all files in any directory named build - `build/`
 * ignore `doc/notes.txt`, but not `doc/server/arch.txt` - `doc/*.txt`
 * ignore all `.pdf` files in the doc/ directory and any of its subdirectories - `doc/**/*.pdf`
-
-### Method 2: Traditional Way
+### Method 2:
 * Steps:
   * First, be in local respository of the project in which Git is initialised and if not, initialise it.
-`git pull RemoteRepoLink`
-`git rm -rf folder-name`
-
+```
+git pull RemoteRepoLink
+git rm -rf folder-name
+```
 r stands for Recurrsively
 
 f stands for Forcefully
-
-* For Example : 
-`git rm -rf .idea/`
-``` git commit -m "commit message"
-    git remote add origin RemoteRepoLink
-    git push -u origin master ```
+* For Example : `git rm -rf .idea/`
+``` 
+git commit -m "commit message"
+git remote add origin RemoteRepoLink
+git push -u origin master
+```
