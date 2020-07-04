@@ -4,10 +4,6 @@
 * Each repository must have README.md file
 * Check for spelling mistakes and grammatical errors before committing
 * Use `#`, `##`, `###` and `####` for better organisation of information
-  * `#` - Main Heading
-  * `##` - Subheading
-  * `###` - Heading Inside a Subheading
-  * `####`  - Subheading Inside a Subheading
 * Use of Bullets
 * Add the following:
 ``` 
