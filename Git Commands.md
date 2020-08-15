@@ -137,7 +137,7 @@ git push remote add origin gitrepourl
 ```
 * Switching remote URL's and push on it
    * Check current URL  `git remote -v`
-   * Change your remote's URL from HTTPS to SSH with the `git remote set-url` command `git remote set-url origin gitRemoteURL`
+   * Change your remote's URL from HTTPS to SSH by `git remote set-url origin gitRepoURL`
    * Verify that the remote URL has changed `git remote -v`
 * To push local repository to the remote repository online at the branch master of remote
 ```
