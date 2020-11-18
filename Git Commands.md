@@ -70,6 +70,10 @@ git log
 ```
 git log --oneline
 ```
+* To view the changes made in the files
+```
+git diff
+```
 * To go back to the previous commit
 ```
 git checkout commitid
