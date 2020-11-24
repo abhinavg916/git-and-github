@@ -14,7 +14,7 @@ git --version
 ```
 * To setup global username
 ```
-git config –global user.name “Your Name”
+git config –-global user.name “Your Name”
 ```
 * To know the username
 ```
@@ -22,11 +22,11 @@ git config user.name
 ```
 * To set the email with the username
 ```
-git config –global user.email “Github Email”
+git config -–global user.email “Github Email”
 ```
 * To list all the usernames with their email
 ```
-git config –list
+git config –-list
 ```
 
 ## Creation of a Git Repository
