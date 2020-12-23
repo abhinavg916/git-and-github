@@ -169,3 +169,13 @@ git clone URL
 ```
 git pull
 ```
+
+## Chart
+
+### Basics
+
+![Page1](https://github.com/abhinavg916/Git-and-GitHub/blob/master/Page1.jpg)
+
+### Advanced
+
+![Page1](https://github.com/abhinavg916/Git-and-GitHub/blob/master/Page2.jpg)
