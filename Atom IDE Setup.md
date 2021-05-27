@@ -1,5 +1,4 @@
-# Atom Top Themes
-## Themes
+# Atom Best Themes
 ### Default (Internal)
 * One Dark UI
 * One Dark Syntax
@@ -37,3 +36,9 @@
 * To run the python file
   * `CTRL + SHIFT + T` to open up terminal and type `python pyFileName.py`
   * `CTRL + SHIFT + B` to run (or execute) the python script
+
+---
+
+## Author
+* Name - Abhinav
+* GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
