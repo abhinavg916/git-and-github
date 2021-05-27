@@ -1,0 +1,46 @@
+# Installing Scala and Apache Spark on Ubuntu
+## Step 1: Installing Java
+* Check to see if Java is already installed by typing:
+`java -version`
+* If you see something like “The program ‘java’ can be found in the following packages…”
+* It probably means you actually need to install Java.
+* The easiest option for installing Java is using the version packaged with Ubuntu. Specifically, this will install OpenJDK 8, the latest and recommended version.
+* First, update the package index by in your terminal typing:
+`sudo apt-get update`
+* After entering your password it will update some stuff.
+* Now you can install the JDK with the following command:
+`sudo apt-get install default-jdk`
+* Then hit Enter and continue with “y”.
+
+## Step 2: Install Scala
+* `sudo apt-get install scala`
+* Type scala into your terminal:
+`scala`
+* You should see the scala REPL running. Test it with:
+`println(“Hello World”)`
+* You can then quit the Scala REPL with
+`:q`
+
+## Step 3: Install Spark
+* Next its time to install Spark. We need git for this, so in your terminal type:
+`sudo apt-get install git`
+* Next, go to https://spark.apache.org/downloads.html and download a pre-built for Hadoop 2.7 version of Spark (preferably Spark 2.0 or later). Then download the .tgz file and remember where you save it on your computer.
+* Then in your terminal change directory to where you saved that .tgz file (or just move the file to your home folder), then use
+`tar xvf spark-2.0.2-bin-hadoop2.7.tgz`
+(Your version numbers may differ).
+* Then once its done extracting the Spark folder, use:
+`cd spark-2.0.2-bin-hadoop2.7.tgz`
+* then use
+`cd bin`
+* and then type
+`./spark-shell`
+* and you should see the spark shell pop up
+* this is where you can load .scala scripts. You can confirm that this is working by typing something like:
+`println(“Spark shell is running”)`
+* That’s it! You should now have Spark running on your computer.
+
+---
+
+## Author
+* Name - Abhinav
+* GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
