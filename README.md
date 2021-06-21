@@ -1,6 +1,6 @@
 # Git and GitHub Notes
 
-![GitHub](https://i2.wp.com/supportdriven.com/wp-content/uploads/2017/10/github-logo.png?ssl=1)
+![GitHub](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
 ## Contents
 - Markdown Notes
