@@ -10,6 +10,8 @@
 - Provide the **URI of the Git** repository and **Login details** (Make sure to check the `[x]` Store in Secure Store)
 - Select **Branch Name** and **Directory Location** for Git to download it locally
 - Select **Import existing Eclipse Project** and Finish
+- Import Competitive Programming Formatter by clicking Preferences button, followed by `Java > Code Style > Formatter > Import`
+  - File - [Java_Competitive_Programming_Eclipse_Formatting_Settings.xml](https://github.com/abhinavg916/git-and-github/blob/master/Java_Competitive_Programming_Eclipse_Formatting_Settings.xml)
 
 ### In VSCode
 
