@@ -26,3 +26,8 @@
 - Install `Extension Pack for Java` by Microsoft in VSCode
 - Locate and Open the folder of the Java Project in VSCode
 - Let the extension detect and run the code
+
+### In IntelliJ IDEA
+
+- Import the following file:
+- File - [IntelliJ IDEA Setting Export.zip](https://github.com/abhinavg916/git-and-github/blob/master/Intelli%20IDEA%20Setting%20Export.zip)
