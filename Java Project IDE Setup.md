@@ -30,4 +30,4 @@
 ### In IntelliJ IDEA
 
 - Import the following file:
-- File - [IntelliJ IDEA Setting Export.zip](https://github.com/abhinavg916/git-and-github/blob/master/Intelli%20IDEA%20Setting%20Export.zip)
+- File - [IntelliJ IDEA Setting Export.zip](https://github.com/abhinavg916/git-and-github/blob/master/IntelliJ%20IDEA%20Setting%20Export.zip)
